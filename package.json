@@ -1,0 +1,25 @@
+{
+  "name": "quans-server",
+  "version": "0.0.1",
+  "description": "A Question Answer Based Server, That Runs On UDP...",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITMammad/quans-server.git"
+  },
+  "keywords": [
+    "Server",
+    "Node.JS",
+    "UDP",
+    "QUANS"
+  ],
+  "author": "ITMammad",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ITMammad/quans-server/issues"
+  },
+  "homepage": "https://github.com/ITMammad/quans-server#readme"
+}
