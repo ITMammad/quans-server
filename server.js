@@ -29,7 +29,7 @@ module.exports = {
         });
         server.on('listening', () => {
             const address = server.address();
-            console.log(`UDP Server listening on ${address.address}:${address.port}`);
+            console.log(`Quans Server Is Listening On Port ${address.port};`);
         });
         server.on('error', (err) => {
             console.error(`QUANS-Server Error:\n${err.stack}`);

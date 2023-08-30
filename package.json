@@ -1,8 +1,8 @@
 {
   "name": "quans-server",
   "version": "0.0.1",
-  "description": "A Question Answer Based Server, That Runs On UDP...",
-  "main": "server.js",
+  "description": "A (Question&Answer) Based Server, That Runs On UDP...",
+  "main": "index.js",
   "scripts": {
     "start": "nodemon start"
   },
